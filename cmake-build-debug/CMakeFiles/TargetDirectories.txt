@@ -1,0 +1,3 @@
+C:/Users/petrb/CLionProjects/Homewor2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/petrb/CLionProjects/Homewor2/cmake-build-debug/CMakeFiles/Homewor2.dir
+C:/Users/petrb/CLionProjects/Homewor2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
